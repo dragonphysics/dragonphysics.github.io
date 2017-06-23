@@ -5,7 +5,6 @@
 
 <div id="lol">
     {% for page in site.pages  %}
-    {% unless page.layout == 'default' %}
 
     <!-- {{ page.title }} -->
     <article id="{{ page.title }}">
@@ -17,7 +16,7 @@
 
     </article>
 
-    {% endunless %}{% endfor %}
+    {% endfor %}
 </div>
 
 <body>

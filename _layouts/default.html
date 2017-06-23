@@ -24,8 +24,7 @@
     {% include header.html %}
 
     {% for page in site.pages  %}
-    {% unless page.layout == 'default' %}
-
+    {% if page.title %}
     <!-- {{ page.title }} -->
     <article id="{{ page.title }}">
         <h2 class="major">{{ page.title }}</h2>
@@ -35,8 +34,8 @@
         {{ page.content }}
 
     </article>
-
-    {% endunless %}{% endfor %}
+    {% endif %}
+    {% endfor %}
 
     {% include footer.html %}
 

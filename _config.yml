@@ -1,0 +1,29 @@
+# Site settings
+title: Sinclair Physics
+email: dragonphysics@yahoo.com
+description: KAMSC Physics
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
+
+icon: fa-grav # Font Awesome class for your site's icon
+
+# Social settings
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/dragonphysics/
+
+# Build settings
+markdown: kramdown

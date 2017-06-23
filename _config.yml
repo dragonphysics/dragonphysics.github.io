@@ -3,8 +3,8 @@ title: Sinclair Physics
 email: dragonphysics@yahoo.com
 description: KAMSC Physics
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sidpagariya.github.io/gift" # the base hostname & protocol for your site
-author:
+url: "https://sidpagariya.github.io/gift/" # the base hostname & protocol for your site
+author: Mr. Sinclair
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN

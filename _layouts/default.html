@@ -3,6 +3,12 @@
 
 {% include head.html %}
 
+<div id="lol">
+    {% for page in site.pages  %}
+        {{ page.title }}
+    {% endfor %}
+</div>
+
 <body>
 
     {% include header.html %}

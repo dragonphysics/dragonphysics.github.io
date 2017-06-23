@@ -56,7 +56,7 @@
 		width: device-width;
 	}
 
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 680px) {
 
 		html, body {
 			min-width: 320px;
@@ -319,7 +319,7 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 680px) {
 
 			form .field.half {
 				width: 100%;
@@ -669,7 +669,7 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 680px) {
 
 			.image.main {
 				margin: 1.5rem 0;
@@ -814,7 +814,7 @@
 						padding: 0 0 0 0.5rem;
 					}
 
-			@media screen and (max-width: 480px) {
+			@media screen and (max-width: 680px) {
 
 				ul.actions {
 					margin: 0 0 2rem 0;
@@ -1155,7 +1155,7 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 680px) {
 
 			#wrapper {
 				padding: 1rem;
@@ -1388,7 +1388,7 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 680px) {
 
 			#header {
 				padding: 1.5rem 0;
@@ -1543,7 +1543,7 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 680px) {
 
 			#main article {
 				padding: 3rem 1.5rem 0.5rem 1.5rem ;
@@ -1608,7 +1608,7 @@
 		width: 200px;
 	}
 
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 680px) {
 		.about-pic
 		{
 			width: 120px;

@@ -3,7 +3,7 @@ title: Sinclair Physics
 email: dragonphysics@yahoo.com
 description: KAMSC Physics
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://sidpagariya.github.io/gift" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville

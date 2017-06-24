@@ -27,3 +27,4 @@ twitter_url: https://twitter.com/dragonphysics/
 
 # Build settings
 markdown: kramdown
+host: 0.0.0.0
